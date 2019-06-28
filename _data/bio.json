@@ -4,55 +4,46 @@
     "label": "Student, Research Intern",
     "picture": "https://wkr1u18.github.io/images/Wojciech.jpg",
     "email": "W.K.Rozowski@soton.ac.uk",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://wkr1u18.github.io",
     "summary": "Computer science enthusiast and a student at University of Southampton, currently working at uni as research intern at Cyberphyscial Systems Research Group.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "SO17 1SE",
+      "city": "Southampton",
+      "countryCode": "UK",
+      "region": "Hampshire"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "wkr1u18",
+        "url": "http://github.com/wkr1u18"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "wojciech-rozowski",
+        "url": "https://www.linkedin.com/in/wojciech-rozowski-86174a172/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Low-level and system programming",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Internet of Things",
       "keywords": [
+      ]
+    },
+    {
+      "name": "Computer Architectures",
+      "keywords": [
+        "x86",
+        "ARM",
+        "MSP430"
       ]
     }
   ],
