@@ -54,8 +54,8 @@
       "keywords": [
         "C (Embedded C, Unix system programming)",
         "Java (multithreading, swing)",
-        "C++"
-        "Assembly (x86 in Intel and at&t syntax)",
+        "C++",
+        "Assembly (x86 in Intel and at&t syntax, as well as ARM assembly)",
         "LaTeX",
         "Bash",
         "SQL"
