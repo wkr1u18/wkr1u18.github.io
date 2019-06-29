@@ -9,7 +9,7 @@
     "summary": "Computer science enthusiast and a student at University of Southampton, currently working at uni as research intern at Cyberphyscial Systems Research Group.",
     "location": {
       "address": "",
-      "postalCode": "SO17 1SE",
+      "postalCode": "SO17 1AW",
       "city": "Southampton",
       "countryCode": "UK",
       "region": "Hampshire"
@@ -52,44 +52,52 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "C (Embedded C, Unix system programming)",
+        "Java (multithreading, swing)",
+        "C++"
+        "Assembly (x86 in Intel and at&t syntax)",
+        "LaTeX",
+        "Bash",
+        "SQL"
       ]
     },
+    
     {
-      "name": "Toolsets/OS",
+      "name": "Software Developement",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Unix/Linux environemnt (RedHat)",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "gcc+binutils",
+        "nasm",
+        "Eclipse (java and Code Composer Studio)",
+        "gdb",
+        "qemu",
+        "JUnit",
+        "JavaDoc",
+        "UML",
+        "formal specification (Event-B)"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Southampton, UK",
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "2018-09-26",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "87.5% grade average (second best score among 250 students)",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of  Southamoton, Cyberphysical Systems Research Group",
+      "position": "Research Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-03-20",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
